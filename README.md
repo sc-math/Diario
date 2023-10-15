@@ -10,7 +10,7 @@ Repositório do Projeto realizado no Curso de Flutter com Web API - Integrando s
 - `async/await`: Como usar o `async` e o `await` para requisições que são operações assíncronas;
 - `interceptors`: O que é e como usar um interceptador HTTP;
 - `logger`: O que é e como usar um logger para melhor visualização no console;
-
+ 
 ## 🔨 Projeto: Simple Journal
 
 O código de Flutter: Web API - Integrando sua Aplicação são **Classes** e **Funções** para gerar uma aplicação de um **Diário pessoal**, que **registra entradas diárias** da pessoa usuária do aplicativo.
