@@ -1,6 +1,6 @@
 # Diário
 
-Repositório do Projeto realizado no Curso de Flutter com Web API - Integrando sua Aplicação, da Alura. 
+Repositório do Projeto realizado nos Cursoos: `Flutter com WebAPI: integrando sua aplicação` e `Flutter com Web API: evoluindo na integração da aplicação` da Alura. 
 
 ## ✔️ Técnicas e tecnologias
 
